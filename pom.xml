@@ -10,7 +10,7 @@
 
   <name>webappfacebook</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>http://webappfacebook.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -31,12 +31,7 @@
   <version>0.2</version>
   <type>pom</type>
 </dependency>
-<dependency>
-  <groupId>org.make</groupId>
-  <artifactId>git-hooks-plugin</artifactId>
-  <version>1.0.7</version>
-</dependency>  </dependencies>
-
+  </dependencies>
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
@@ -82,4 +77,13 @@
       </plugins>
     </pluginManagement>
   </build>
+  <dependencyManagement>
+  	<dependencies>
+  		<dependency>
+  			<groupId>org.apache.maven.plugins</groupId>
+  			<artifactId>maven-war-plugin</artifactId>
+  			<version>3.2.2</version>
+  		</dependency>
+  	</dependencies>
+  </dependencyManagement>
 </project>

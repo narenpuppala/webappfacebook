@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-18_windows-x64_bin (1)\jdk-18.0.2\bin"/>
-    <property name="sun.java.command" value="C:\Users\lenovo\AppData\Local\Temp\surefire3913909616954668822\surefirebooter6058784169500401136.jar C:\Users\lenovo\AppData\Local\Temp\surefire3913909616954668822 2022-08-19T07-36-07_312-jvmRun1 surefire14937382952210228696tmp surefire_09421139853652282986tmp"/>
+    <property name="sun.java.command" value="C:\Users\lenovo\AppData\Local\Temp\surefire3666793351781275741\surefirebooter3844331630376202968.jar C:\Users\lenovo\AppData\Local\Temp\surefire3666793351781275741 2022-08-20T09-19-01_018-jvmRun1 surefire1753555804986205031tmp surefire_016963875779149894872tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\lenovo\webappfacebook\target\test-classes;C:\Users\lenovo\webappfacebook\target\classes;C:\Users\lenovo\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\lenovo\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\lenovo\AppData\Local\Temp\surefire3913909616954668822\surefirebooter6058784169500401136.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\lenovo\AppData\Local\Temp\surefire3666793351781275741\surefirebooter3844331630376202968.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="18.0.2+9-61"/>
